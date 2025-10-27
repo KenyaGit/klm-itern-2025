@@ -23,7 +23,7 @@ if (!isset($currentPage)) {
     <header>
         <nav>
             <div class="logo">
-            <a href="<?php echo $basePath; ?>../nederlands/index_nl.php">
+            <a href="<?php echo $basePath; ?>/nederlands/index_nl.php">
                 <img src="../images/logo_klm3.png" alt="KLM Logo" class="logo"></a>
             </div>
             <ul class="nav-links" id="nav-links">
