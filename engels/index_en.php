@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KLM Internship Market</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
     <style>
         .data {
             background: url(../images/logo_klm2.jpg) fixed;
@@ -15,8 +15,16 @@
             background-position: center; /* Centreert de afbeelding */
             background-attachment: fixed; /* Optioneel: zorgt ervoor dat de afbeelding blijft staan bij scrollen */
         }
-        
     </style>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KLM Internship</title>
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <div class="data">
