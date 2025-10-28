@@ -3,7 +3,7 @@ if (!isset($pageTitle)) {
     $pageTitle = 'KLM Internship Market';
 }
 if (!isset($basePath)) {
-    $basePath = '..';
+    $basePath = '.';
 }
 if (!isset($currentPage)) {
     $currentPage = basename($_SERVER['PHP_SELF']);
@@ -63,7 +63,6 @@ if (!isset($currentPage)) {
         </nav>
     </header>
     <main>
-
 <script>
 function myFunction() {
   var x = document.getElementById("myLinks");
