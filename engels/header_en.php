@@ -1,5 +1,3 @@
-<?php $basePath = ''; ?>
-
 <?php
 if (!isset($pageTitle)) {
     $pageTitle = 'KLM Internship Market';
