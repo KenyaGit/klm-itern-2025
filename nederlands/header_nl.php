@@ -47,14 +47,14 @@ if (!isset($currentPage)) {
             </div>
             <div class="topnav" id="topnav-mobile">
       <div id="myLinks">
-        <a href="<?php echo $basePath; ?>../nederlands/safety_nl.php">VEILIGHEID</a>
-        <a href="<?php echo $basePath; ?>../nederlands/map_nl.php">MAP</a>
-        <a href="<?php echo $basePath; ?>../nederlands/schedule_nl.php">PROGRAMMA</a>
-        <a href="<?php echo $basePath; ?>../nederlands/em_nl.php">OVER KLM E&M</a>
-        <a href="<?php echo $basePath; ?>../nederlands/innovation_nl.php">INNOVATIE</a>
-        <a href="<?php echo $basePath; ?>../nederlands/vacancy_nl.php">VACATURES</a>
-        <a href="<?php echo $basePath; ?>../nederlands/contact_nl.php">CONTACT</a>
-        <a href="<?php echo $basePath; ?>../nederlands/faq_nl.php">FAQ</a>
+        <a href="<?php echo $basePath; ?>/nederlands/safety_nl.php">VEILIGHEID</a>
+        <a href="<?php echo $basePath; ?>/nederlands/map_nl.php">MAP</a>
+        <a href="<?php echo $basePath; ?>/nederlands/schedule_nl.php">PROGRAMMA</a>
+        <a href="<?php echo $basePath; ?>/nederlands/em_nl.php">OVER KLM E&M</a>
+        <a href="<?php echo $basePath; ?>/nederlands/innovation_nl.php">INNOVATIE</a>
+        <a href="<?php echo $basePath; ?>/nederlands/vacancy_nl.php">VACATURES</a>
+        <a href="<?php echo $basePath; ?>/nederlands/contact_nl.php">CONTACT</a>
+        <a href="<?php echo $basePath; ?>/nederlands/faq_nl.php">FAQ</a>
       </div>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <span style="font-size: 26px;">&#9776;</span>
