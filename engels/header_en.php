@@ -1,4 +1,4 @@
-<?php $basePath = '/KLM-Intern-2025-main'; ?>
+<?php $basePath = ''; ?>
 
 <?php
 if (!isset($pageTitle)) {
