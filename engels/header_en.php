@@ -29,14 +29,14 @@ if (!isset($currentPage)) {
                 <img src="../images/logo_klm2.png" alt="KLM Logo" class="logo"></a>
             </div>
             <ul class="nav-links" id="nav-links">
-                <li><a href="<?php echo $basePath; ?>../engels/safety_en.php" <?php if ($currentPage == "safety_en.php") echo "class='active'"; ?>>SAFETY</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/map_en.php" <?php if ($currentPage == "map_en.php") echo "class='active'"; ?>>MAP</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/schedule_en.php" <?php if ($currentPage == "schedule_en.php") echo "class='active'"; ?>>SCHEDULE</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/em_en.php" <?php if ($currentPage == "em_en.php") echo "class='active'"; ?>>ABOUT KLM E&M</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/innovation_en.php" <?php if ($currentPage == "innovation_en.php") echo "class='active'" ?>>INNOVATION</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/vacancy_en.php" <?php if ($currentPage == "vacancy_en.php") echo "class='active'" ?>>VACANCIES</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/contact_en.php" <?php if ($currentPage == "contact_en.php")echo "class='active'" ?>>CONTACT</a></li>
-                <li><a href="<?php echo $basePath; ?>../engels/faq_en.php" <?php if ($currentPage == "faq_en.php") echo "class='active'" ?>>FAQ</a></li><br>
+                <li><a href="<?php echo $basePath; ?>/engels/safety_en.php" <?php if ($currentPage == "safety_en.php") echo "class='active'"; ?>>SAFETY</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/map_en.php" <?php if ($currentPage == "map_en.php") echo "class='active'"; ?>>MAP</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/schedule_en.php" <?php if ($currentPage == "schedule_en.php") echo "class='active'"; ?>>SCHEDULE</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/em_en.php" <?php if ($currentPage == "em_en.php") echo "class='active'"; ?>>ABOUT KLM E&M</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/innovation_en.php" <?php if ($currentPage == "innovation_en.php") echo "class='active'" ?>>INNOVATION</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/vacancy_en.php" <?php if ($currentPage == "vacancy_en.php") echo "class='active'" ?>>VACANCIES</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/contact_en.php" <?php if ($currentPage == "contact_en.php")echo "class='active'" ?>>CONTACT</a></li>
+                <li><a href="<?php echo $basePath; ?>/engels/faq_en.php" <?php if ($currentPage == "faq_en.php") echo "class='active'" ?>>FAQ</a></li><br>
             </ul>
             <div class="language-switch">
                 <a href="<?php echo $basePath; ?>/engels/index_en.php" class="lang">
